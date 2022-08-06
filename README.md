@@ -1,4 +1,4 @@
-> This project was a part of a data analysis professional nano degree course. (Project is a python script)
+> This project was a part of a Data Analysis Professional Nanodegree course. (Project is a python script)
 
 ## Project details:
 ----------------------
